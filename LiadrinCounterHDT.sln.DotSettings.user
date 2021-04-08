@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProgram_0020Files_005CHearthstoneDeckTracker_005Capp_002D1_002E14_002E4_005CHearthstoneDeckTracker_002Eexe/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Programmi\HearthstoneDeckTracker\app-1.14.4\HearthstoneDeckTracker.exe" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\HearthstoneDeckTracker\app-1.14.4\HearthstoneDeckTracker.exe" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\HearthstoneDeckTracker\app-1.14.4\HearthDb.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework64\v2.0.50727\System.Configuration.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=LiadrinCounterHDT_002FSettingsForm/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/Initialized/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>
