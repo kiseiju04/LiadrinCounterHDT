@@ -4,6 +4,11 @@
 ***
 A simple plugin for [Hearthstone Deck Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker)
 
+![plugin](https://user-images.githubusercontent.com/69793476/114163658-bc31f980-992a-11eb-8d5d-3555471d9355.png)
+This plugin track the card that liadrin can give you.
+It stop when you play Liadrin.
+
+
 **For the installation**
-1. open the .zip file
-2. put it in the folde '%APPDATA%/HearthstoneDeckTracker/Plugin'
+1. open the `.zip` file
+2. put it in the folde `%APPDATA%/HearthstoneDeckTracker/Plugin`
