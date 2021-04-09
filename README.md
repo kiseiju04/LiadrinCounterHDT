@@ -10,5 +10,6 @@ It stop when you play Liadrin.
 
 
 **For the installation**
-1. open the `.zip` file
-2. put it in the folde `%APPDATA%/HearthstoneDeckTracker/Plugin`
+1. download the file `[LiadrinCounter.zip](https://github.com/kiseiju04/LiadrinCounterHDT/releases/tag/1.0)`
+2. open the `.zip` file
+3. put it in the folder `%APPDATA%/HearthstoneDeckTracker/Plugin`
